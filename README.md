@@ -1,9 +1,6 @@
 # ICMP_Port_Scanner
 This is a port Scanner using ICMP Technic [ Educational Purpose Only - Never use this for illegal actions ] 
 
-# ICMP_Port_Scanner
-This is a port Scanner using ICMP Technic [ Educational Purpose Only - Never use this for illegal actions ] 
-
 Port Scanner using ICMP (Live hosts in a network)
 
 Internet Control Message Protocol (ICMP) which is a supporting protocol in the ip suite. 
